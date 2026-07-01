@@ -6,42 +6,143 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 16 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [two pointers](#two-pointers) (1)
+- [*special](#special) (1)
+- [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (3)
+- [combinatorics](#combinatorics) (1)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [expression parsing](#expression-parsing) (1)
+- [games](#games) (1)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (3)
+- [math](#math) (8)
+- [number theory](#number-theory) (2)
+- [schedules](#schedules) (1)
+- [sortings](#sortings) (3)
+- [two pointers](#two-pointers) (2)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
+| 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
+| 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+| 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
+
+### schedules
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 
 ### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ---
 
