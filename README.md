@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 17 |
+| 35 | 18 |
 
 ---
 
@@ -21,9 +21,10 @@
 - [data structures](#data-structures) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (16)
+- [geometry](#geometry) (1)
+- [greedy](#greedy) (17)
 - [implementation](#implementation) (4)
-- [math](#math) (18)
+- [math](#math) (19)
 - [number theory](#number-theory) (6)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (5)
@@ -106,11 +107,18 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
@@ -144,6 +152,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
+| 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
