@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 20 |
+| 44 | 20 |
 
 ---
 
@@ -18,16 +18,16 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (12)
+- [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (2)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [implementation](#implementation) (4)
-- [math](#math) (21)
-- [number theory](#number-theory) (6)
+- [math](#math) (22)
+- [number theory](#number-theory) (7)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (5)
@@ -100,6 +100,7 @@
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
 | 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### data structures
 
@@ -113,6 +114,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### expression parsing
 
@@ -155,6 +157,7 @@
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### implementation
 
@@ -190,6 +193,7 @@
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### number theory
 
@@ -201,6 +205,7 @@
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/HDHARSH28/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### schedules
 
